@@ -1,4 +1,4 @@
 # Table of contents
 
-* [all of JS](README.md)
+* [시작](README.md)
 
