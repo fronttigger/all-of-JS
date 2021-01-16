@@ -4,6 +4,6 @@
 
 ## Concepts
 
-* [데이터 타입](concepts/datatype.md)
 * [변수](concepts/variable.md)
+* [데이터 타입](concepts/datatype.md)
 
