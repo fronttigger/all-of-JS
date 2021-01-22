@@ -6,5 +6,5 @@
 
 * [변수](concepts/variable.md)
 * [데이터 타입](concepts/datatype.md)
-* [연산자](concepts/undefined.md)
+* [연산자](concepts/operator.md)
 
