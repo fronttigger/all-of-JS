@@ -4,7 +4,7 @@ description: 자바스크립트에서 변수를 다루기 위한 개념을 살�
 
 # 변수
 
-![](../.gitbook/assets/variable.png)
+![](../.gitbook/assets/variable%20%281%29.png)
 
 ## 🤔 변수가 뭔데요? <a id="undefined"></a>
 
