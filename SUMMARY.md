@@ -8,4 +8,5 @@
 * [데이터 타입](concepts/datatype.md)
 * [연산자](concepts/operator.md)
 * [조건문](concepts/conditional.md)
+* [반복문](concepts/loop.md)
 
