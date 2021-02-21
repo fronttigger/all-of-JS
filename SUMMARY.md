@@ -10,4 +10,5 @@
 * [조건문](concepts/conditional.md)
 * [반복문](concepts/loop.md)
 * [객체](concepts/object.md)
+* [함수](concepts/function.md)
 
