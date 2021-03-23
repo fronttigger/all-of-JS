@@ -11,4 +11,5 @@
 * [반복문](concepts/loop.md)
 * [객체](concepts/object.md)
 * [함수](concepts/function.md)
+* [배열](concepts/array.md)
 
